@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @first-Curious
+- 👀 I’m interested in AI, Machine Learning< Data Science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Science/AI
